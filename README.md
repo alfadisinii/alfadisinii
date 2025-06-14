@@ -40,7 +40,7 @@
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: America/Chicago
+🕑︎ Time Zone: Indonesia/Jakarta
 
 💬 Programming Languages: 
 No Activity Tracked This Week
