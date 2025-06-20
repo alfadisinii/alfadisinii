@@ -1,6 +1,6 @@
 # Hi there, I'm alfadisinii - aka DittoDevs <img width="30px" height="30" src="https://github.com/SatYu26/SatYu26/raw/master/Assets/Hi.gif" />
 
-<img align="right" alt="GIF" height="160px" src="URL=/gif/newjeans-attention-official-mv-gzgNMu][IMG]https://i.makeagif.com/media/7-22-2022/gzgNMu.gif" />
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 ## I'm a Backend Developer
 
