@@ -20,7 +20,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://open.spotify.com/user/v47bnpoaogtvoizyan2i3rj50?si=fW5h1McURgW3bnm-akMMqg)](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg?si=_mTNbKblRJmlFSqIoqQf4Q&context=spotify%3Aplaylist%3A37i9dQZF1DWVGwK1DVdGDJ)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/track/2DwUdMJ5uxv20EhAildreg?si=_mTNbKblRJmlFSqIoqQf4Q&context=spotify%3Aplaylist%3A37i9dQZF1DWVGwK1DVdGDJ)
 
 ---
 
